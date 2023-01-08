@@ -11,12 +11,12 @@ import pprint as p
 
 load_dotenv()
 
-account_sid = os.environ['TWILIO_ACCOUNT_SID']
-auth_token = os.environ['TWILIO_AUTH_TOKEN']
-api_key = os.environ['TWILIO_API_KEY_SID']
-api_key_secret = os.environ['TWILIO_API_KEY_SECRET']
-twiml_app_sid = os.environ['TWIML_APP_SID']
-twilio_number = os.environ['TWILIO_NUMBER']
+account_sid = os.environ['AC8b48cfa0f629200c0ece640400c22c71']
+auth_token = os.environ['2ab3e4282e60797454be9e019f2eb726']
+api_key = os.environ['SK786f9cd701f92db9094e2118a9e106d4']
+api_key_secret = os.environ['SXlqUXQLnqEVZxMTqS1Vh3afZ75HbrAJ']
+twiml_app_sid = os.environ['AP37e2baf5905a9115cbf96dac243836fc']
+twilio_number = os.environ['+16627677230']
 
 app = Flask(__name__)
 
