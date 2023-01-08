@@ -12,7 +12,7 @@ import pprint as p
 load_dotenv()
 
 account_sid = os.environ[AC8b48cfa0f629200c0ece640400c22c71]
-auth_token = os.environ[2ab3e4282e60797454be9e019f2eb726]
+auth_token = os.environ[71eb9c2ac31e415cac70c5c91058ce1b]
 api_key = os.environ[SK786f9cd701f92db9094e2118a9e106d4]
 api_key_secret = os.environ[SXlqUXQLnqEVZxMTqS1Vh3afZ75HbrAJ]
 twiml_app_sid = os.environ[AP37e2baf5905a9115cbf96dac243836fc]
